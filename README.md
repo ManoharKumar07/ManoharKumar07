@@ -70,17 +70,20 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManoharKumar07&theme=radical&border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManoharKumar07&theme=radical&hide_border=false" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoharKumar07&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoharKumar07&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ManoharKumar07&theme=radical&border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManoharKumar07&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ManoharKumar07&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
