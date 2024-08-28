@@ -71,7 +71,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManoharKumar07&theme=radical&hide_border=false" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoharKumar07&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" height="185" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoharKumar07&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" height="190" />
 
 </div>
 <div align="center">
