@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FE428E&size=30&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Passionate+about+Coding" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Passionate Full-Stack Web Developer | Proficient in MERN Stack, Java, JavaScript, Python, C</h3>
+<h3 align="center">Passionate Full-Stack Web Developer | Proficient in MERN Stack, NEXT js, Java, JavaScript, Python, C</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ManoharKumar07&label=Profile%20views&color=0e75b6&style=flat" alt="ManoharKumar07" /></p>
 
